@@ -1,0 +1,23 @@
+{
+  "name": "gulp-del-csslinks",
+  "version": "0.1.0",
+  "description": "the gulp plugin of delete css links from html node dom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iu2fish/gulp-del-csslinks.git"
+  },
+  "keywords": [
+    "gulp",
+    "css"
+  ],
+  "author": "iu2fish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iu2fish/gulp-del-csslinks/issues"
+  },
+  "homepage": "https://github.com/iu2fish/gulp-del-csslinks#readme"
+}
