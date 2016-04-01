@@ -1,6 +1,6 @@
 {
   "name": "gulp-del-csslinks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "the gulp plugin of delete css links from html node dom",
   "main": "index.js",
   "scripts": {
