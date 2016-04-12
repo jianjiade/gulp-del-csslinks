@@ -1,4 +1,4 @@
-## gulp-del-csslinks
+## gulp-del-csslinks [![Build Status](https://travis-ci.org/iu2fish/gulp-del-csslinks.svg?branch=master)](https://travis-ci.org/iu2fish/gulp-del-csslinks)
 
 ### Description
 
