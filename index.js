@@ -1,6 +1,6 @@
 
-//PLUGIN_NAME: delcsslinks
-
+// PLUGIN_NAME: delcsslinks
+// descript
 'use strict';
 
 var through = require('through-gulp');
@@ -13,7 +13,6 @@ function delcsslinks(){
 		if(file.isNull()){
 			return callback(null, file);
 		}
-
 		if (file.isStream()) {
 			this.emit('error', new guitl.PluginError(PLUGIN_NAME, PLUGIN_NAME + ' Streaming nor supported'));
 			return callback(null, file);
