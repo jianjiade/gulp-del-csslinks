@@ -19,6 +19,5 @@ describe('delcsslinks', function() {
 			}))
 			.pipe(assert.end(done));
 		})
-
 	})
 })
