@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/iu2fish/gulp-del-csslinks#readme",
   "devDependencies": {
+    "gulp":"^3.9",
     "gulp-util": "^3.0.7",
     "mocha": "^2.4.5",
     "path": "^0.12.7",
